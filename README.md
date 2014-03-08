@@ -12,6 +12,7 @@ bower install a
 ```
 
 ### Usage
+```javascript
 map = new Map
 map.set(k, v)
 map.get(k)
@@ -24,7 +25,10 @@ set.add(obj)
 set.has(obj)
 set.del(obj)
 set.all()
+```
 
 #### Extend hash strategy
+```javascript
 map = new Map(customHashFn)
 set = new Set(customHashFn)
+```

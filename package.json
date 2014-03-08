@@ -1,5 +1,5 @@
 {
-  "name": "a",
+  "name": "qdds",
   "version": "0.0.1",
   "description": "Quick & dirty Map and Set for JavaScript",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/buunguyen/a"
+    "url": "https://github.com/buunguyen/qdds"
   },
   "author": "Buu Nguyen <buunguyen@gmail.com> (https://github.com/buunguyen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/buunguyen/a/issues"
+    "url": "https://github.com/buunguyen/qdds/issues"
   },
-  "homepage": "https://github.com/buunguyen/a",
+  "homepage": "https://github.com/buunguyen/qdds",
   "devDependencies": {
     "grunt": "*",
     "grunt-contrib-coffee": "*",

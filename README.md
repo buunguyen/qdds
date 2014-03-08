@@ -28,6 +28,3 @@ set.all()
 #### Extend hash strategy
 map = new Map(customHashFn)
 set = new Set(customHashFn)
-
-### Why 'a'
-My lack of imagination, of course.

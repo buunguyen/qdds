@@ -1,0 +1,19 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "description": "Quick & dirty Map and Set for JavaScript",
+  "homepage": "https://github.com/buunguyen/a",
+  "authors": [
+    "Buu Nguyen <buunguyen@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "Gruntfile.coffee",
+    "index.coffee"
+  ]
+}

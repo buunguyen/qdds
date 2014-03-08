@@ -1,0 +1,26 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "description": "Quick & dirty Map and Set for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buunguyen/a"
+  },
+  "author": "Buu Nguyen <buunguyen@gmail.com> (https://github.com/buunguyen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buunguyen/a/issues"
+  },
+  "homepage": "https://github.com/buunguyen/a",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1",
+    "grunt-mocha-test": "~0.9.4"
+  }
+}

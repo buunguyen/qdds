@@ -98,7 +98,7 @@ describe "Map", ->
       preferences = new Map(java_like_strategy)
       class Person
         constructor: (@name, @age) ->
-        hashCode   : -> return @name + @age # something like that, doh!
+        hashCode   : -> @name + @age # something like that, doh!
         equals     : (other) -> @name is other.name and @age is other.age
       lang_prefs = languages: ["coffee", "js"]
       p1 = new Person "guy", 30

@@ -1,11 +1,14 @@
 {
   "name": "qdds",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Simple Map and Set for JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "grunt"
   },
+  "keywords": [
+    "map", "dictionary", "hashtable", "set", "data-structures", 
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/buunguyen/qdds"

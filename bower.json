@@ -1,7 +1,7 @@
 {
   "name": "qdds",
-  "version": "0.1.1",
-  "description": "Quick & dirty Map and Set for JavaScript",
+  "version": "0.1.5",
+  "description": "Simple Map and Set for JavaScript",
   "homepage": "https://github.com/buunguyen/qdds",
   "authors": [
     "Buu Nguyen <buunguyen@gmail.com>"

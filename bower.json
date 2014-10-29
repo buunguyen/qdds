@@ -1,6 +1,6 @@
 {
   "name": "qdds",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Simple Map and Set for JavaScript",
   "homepage": "https://github.com/buunguyen/qdds",
   "authors": [
@@ -9,6 +9,7 @@
   "keywords": [
     "map", "dictionary", "hashtable", "set", "data-structures"
   ],
+  "main": "./index.js",
   "license": "MIT",
   "private": false,
   "ignore": [

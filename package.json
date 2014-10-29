@@ -1,6 +1,6 @@
 {
   "name": "qdds",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Simple Map and Set for JavaScript",
   "main": "index.js",
   "scripts": {
